@@ -1,6 +1,6 @@
-# Hoang Gia Bao
+# HOANG GIA BAO from Vietnam, living in Nagano (Japan)
 
-A passionate full-stack developer with a focus on creating intuitive and user-friendly web applications. Experienced in both front-end and back-end development, with a strong interest in UI/UX design and a drive to further develop as a full-stack developer.
+Full-stack developer with experience in both front-end and back-end development. Strong interest in UI/UX design and a drive to grow as a full-stack developer.
 
 ## Skills & Expertise
 
@@ -13,38 +13,43 @@ A passionate full-stack developer with a focus on creating intuitive and user-fr
 
 ## Experience
 
-### Full-Stack Developer | Muzo Inc.
+### Full-Stack Developer | Muzou Inc.
 **Jan 2024 – Mar 2026**
 
 - Developed web applications for managing electric bicycle parking and M&A matchmaking platforms using Next.js, NestJS, and PostgreSQL.
-- Implemented front-end designs and back-end API services, with a focus on creating smooth user interactions and efficient data management.
-- Led discussions on technical choices and participated in project management.
+- Focused on front-end design and back-end API development.
 
 ### Projects
 
 #### Electric Bicycle Parking Management App
 - **Tech**: Next.js, NestJS, PostgreSQL
 - **Role**: Full-Stack Development
-- **Details**: Developed a platform for managing electric bicycle parking spaces, including user authentication and data management features.
 
 #### M&A Matchmaking Platform
 - **Tech**: Next.js, NestJS, PostgreSQL
 - **Role**: Full-Stack Development
-- **Details**: Built a platform that connects businesses and sellers with potential buyers, including chat features, progress tracking, and dashboard design.
 
 ## Education
 
 - **Shinshu University**  
-  Bachelor's in Textile Engineering (Expected 2025)  
-  Master's in Integrated Science and Engineering (Expected 2027)
+  Bachelor's in Textile Engineering (Graduated 2025)  
+  Master's in Integrated Science and Engineering (Robotics) (Current, Expected 2027)
+
+## Awards & Scholarships
+
+- **Mabuchi Scholarship** (2021 - Present)
 
 ## Certifications
 
 - **JLPT N2** (2021)
 - **TOEIC L&R 730** (2025)
 
+## Portfolio
+
+Check out my personal portfolio: [myhub-flame.vercel.app](https://myhub-flame.vercel.app/)
+
 ## Contact
 
 - **Email**: vngiabaohoang@gmail.com  
-- **LinkedIn**: [LinkedIn Profile](#)  
-- **GitHub**: [GitHub Profile](#)
+- **LinkedIn**: [vngbh](https://www.linkedin.com/in/vngbh/)
+  
