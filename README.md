@@ -1,9 +1,9 @@
-### HOANG GIA BAO from Vietnam, living in Nagano (Japan)
+### Hello! I'm HOANG GIA BAO, from Vietnam, currently living in Nagano (Japan)
 Full-stack developer with experience in both front-end and back-end development. Passionate about UI/UX design and continuously improving as a developer.
 
 ---
 
-### What I Work On
+### What I Do
 - Full-stack web applications (Frontend and Backend)
 - UI/UX design and user-centric development
 - API development and integration
@@ -11,7 +11,7 @@ Full-stack developer with experience in both front-end and back-end development.
 
 ---
 
-### Tech Stack
+### My Tech Stack
 - **Languages**: TypeScript, Python, Swift  
 - **Frontend**: Next.js, TailwindCSS, shadcn/ui  
 - **Backend**: NestJS  
@@ -29,7 +29,7 @@ Full-stack developer with experience in both front-end and back-end development.
 
 ---
 
-### Contact
+### Let's Connect
 - Portfolio: [myhub-flame.vercel.app](https://myhub-flame.vercel.app/)  
 - LinkedIn: [vngbh](https://www.linkedin.com/in/vngbh/)  
 - Email: vngiabaohoang@gmail.com
