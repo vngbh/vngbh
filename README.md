@@ -1,47 +1,36 @@
 # HOANG GIA BAO from Vietnam, living in Nagano (Japan)
 
-Full-stack developer with experience in both front-end and back-end development. Strong interest in UI/UX design and a drive to grow as a full-stack developer.
+Full-stack developer with experience in both front-end and back-end development. Passionate about UI/UX design and continuously improving as a developer.
 
 ---
 
-## Skills & Expertise
-- **Languages**: TypeScript, Python, Swift
-- **Frameworks**: Next.js, NestJS
-- **Databases**: PostgreSQL, Prisma
-- **Tools**: TailwindCSS, shadcn/ui, Docker, Postman, Apollo GraphQL
-- **Cloud & DevOps**: AWS, Vercel, Supabase
-- **Version Control**: Git (Branching, Pull Requests, Code Review)
+### What I Work On
+- Full-stack web applications (Frontend and Backend)
+- UI/UX design and user-centric development
+- API development and integration
+- Data management and optimization
 
 ---
 
-## Experience
-
-**Full-Stack Developer | Muzo Inc. (Jan 2024 – Mar 2026)**  
-- Developed web applications using Next.js, NestJS, PostgreSQL. Focused on front-end design and back-end API development.
-
-**Projects**:
-- **Electric Bicycle Parking Management App**: Full-stack development (Next.js, NestJS, PostgreSQL).
-- **M&A Matchmaking Platform**: Full-stack development (Next.js, NestJS, PostgreSQL).
-
----
-
-## Education
-**Shinshu University**
-- Bachelor's in Textile Engineering (Graduated)
-- Master's in Integrated Science and Engineering (Robotics) (Current, Expected 2027)
+### Tech Stack
+- **Languages**: TypeScript, Python, Swift  
+- **Frontend**: Next.js, TailwindCSS, shadcn/ui  
+- **Backend**: NestJS  
+- **Databases**: PostgreSQL, Prisma  
+- **DevOps**: AWS, Vercel, Supabase, Docker  
+- **Version Control**: Git
 
 ---
 
-## Awards & Scholarships
-- **Mabuchi Scholarship** (2021 - Present)
-
-## Certifications
-- **JLPT N2** (2021)
+### Education & Certifications
+- **Shinshu University**: Textile Engineering (BSc), Robotics (MSc)  
+- **Mabuchi Scholarship** (2021 - Present)  
+- **JLPT N2** (2021)  
 - **TOEIC L&R 730** (2025)
 
 ---
 
-## Contact
-- **Email**: vngiabaohoang@gmail.com  
-- **LinkedIn**: [vngbh](https://www.linkedin.com/in/vngbh/)  
-- **Portfolio**: [myhub-flame.vercel.app](https://myhub-flame.vercel.app/)
+### Contact
+- Portfolio: [myhub-flame.vercel.app](https://myhub-flame.vercel.app/)  
+- LinkedIn: [vngbh](https://www.linkedin.com/in/vngbh/)  
+- Email: vngiabaohoang@gmail.com
