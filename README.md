@@ -1,4 +1,4 @@
-### Hello! I'm HOANG GIA BAO, from Vietnam, currently living in Nagano (Japan)
+### Hello! I'm Bao (バオ), from Vietnam, currently living in Nagano (Japan)
 Full-stack developer with experience in both front-end and back-end development. Passionate about UI/UX design and continuously improving as a developer.
 
 ---
