@@ -4,7 +4,7 @@ Full-stack developer with experience in both front-end and back-end development.
 ---
 
 ### What I Do
-- Full-stack web applications (Frontend and Backend)
+- Full-stack web applications
 - UI/UX design and user-centric development
 - API development and integration
 - Data management and optimization
